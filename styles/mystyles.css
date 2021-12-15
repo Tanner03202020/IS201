@@ -1,0 +1,49 @@
+/*Tanner Dow 12/14/2021*/
+
+.homesty {
+    list-style-type: none;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.jobs {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.listz {
+    list-style-type: disc;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.Edu {
+    list-style-type: disc;
+}
+
+.subhead {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.home {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.linkz {
+    font-size: 20px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+
+.aboutme {
+    font-size: 20px;
+    font-family: serif;
+    text-align: center;
+}
